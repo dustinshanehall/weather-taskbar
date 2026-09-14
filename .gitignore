@@ -1,0 +1,26 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+packages/
+*.nupkg
+project.lock.json
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# User-specific
+*.rsuser
+*.userprefs
+
+# Prebuilt binaries are published via GitHub Releases, not committed
+releases/
+*.exe
+*.pdb
